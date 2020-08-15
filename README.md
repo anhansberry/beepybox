@@ -2,6 +2,8 @@
 
 The BeepyBox is a small, affordable, and easy to build device that can help you maintain social distance during these funky fresh times.
 
+Check out a [little demo here](https://drive.google.com/file/d/13kUebmuEdIpTc6xNxbf2VIwbcWEip1sp/view?usp=sharing).
+
 ![Beepy Box pic](img/BeepyBox.JPG)
 
 ## What is the BeepyBox?
