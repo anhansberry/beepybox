@@ -82,8 +82,8 @@ In general, most numbers in the code can be tweaked and tinkered with, but the c
 
 ## Authors
 
-- **Ashley Hansberry** - *Initial work* - [Personal Site]()
-- **Joshua Heise** - *Initial work* - [Heise Guitar Craft]()
+- **Mech Heise** - *Initial work* - [Heise Guitar Craft](https://www.instagram.com/heiseguitarcraft/)
+- **Ash Hansberry** - *Initial work* - [Personal Site](https://sites.google.com/view/ashley-hansberry/home)
 
 See also the list of [contributors](contributors) who participated in this project.
 
